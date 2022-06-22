@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(179, 165, 201);
+}
+
+h1 {
+  color: rgb(0, 194, 178);
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+}
+ul {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: chocolate;
+}
